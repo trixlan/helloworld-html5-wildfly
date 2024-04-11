@@ -1,0 +1,5 @@
+#Thu Apr 11 15:05:53 CST 2024
+configuration*?=18C483B1AFF74B055FEB1F103C2F4653B4160822
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+/home/gercha/Proyectos/jboss-eap-quickstarts/helloworld-html5/src/main/java/org/jboss/as/quickstarts/html5rest/HelloWorld.java=1690588218467
+/home/gercha/Proyectos/jboss-eap-quickstarts/helloworld-html5/src/main/java/org/jboss/as/quickstarts/html5rest/HelloService.java=1690588218467
